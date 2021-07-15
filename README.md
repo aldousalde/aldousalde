@@ -15,8 +15,8 @@
 
 <br />
 
-<p><img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=aldousalde&show_icons=true&locale=en" alt="aldousalde" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aldousalde&" alt="aldousalde" /></p>
+<p align="center"><img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=aldousalde&show_icons=true&locale=en" alt="aldousalde" />
+<img width="450" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aldousalde&" alt="aldousalde" /></p>
 
 <!---
 aldousalde/aldousalde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
