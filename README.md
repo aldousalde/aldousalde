@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **JavaScript Algorithms and Data Structures**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **PHP**
 
 - ⚡ Fun fact **Animations are 🔥**
 
