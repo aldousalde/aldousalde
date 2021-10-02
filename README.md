@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm @aldousalde</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aldousalde&label=Profile%20views&color=0e75b6&style=flat" alt="aldousalde" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=aldousalde&label=Profile%20views&color=0e75b6&style=flat" alt="aldousalde" /> </p> -->
 
 - 🔭 I’m currently working on **JavaScript Algorithms and Data Structures**
 
